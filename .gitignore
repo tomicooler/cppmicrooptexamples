@@ -1,0 +1,4 @@
+tst_*
+*.data
+*.output
+*.pro.user*
